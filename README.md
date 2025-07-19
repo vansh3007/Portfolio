@@ -2,7 +2,7 @@
 
 Welcome to my personal Portfolio website — a curated space that showcases my skills, projects, and professional journey as a Full Stack Developer specializing in the MERN stack, modern frontend frameworks, and mobile app development.
 
-🔗 **Live Website**: [https://your-Portfolio-link.com](https://your-Portfolio-link.com)  
+🔗 **Live Website**: [https://vansh-shrivastava-portfolio.netlify.app/](https://vansh-shrivastava-portfolio.netlify.app/)  
 📧 **Email**: [vanshshrivastava30@gmail.com](mailto:vanshshrivastava30@gmail.com)  
 📞 **Contact**: +91 8103579233  
 🌐 **GitHub**: [github.com/vansh3007](https://github.com/vansh3007)  
